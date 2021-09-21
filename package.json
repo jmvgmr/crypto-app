@@ -1,5 +1,6 @@
 {
   "name": "crypto-app",
+  "homepage": "https://jmvgmr.github.io/crypto-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
